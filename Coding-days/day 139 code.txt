@@ -1,0 +1,64 @@
+Given a positive integer n, generate an n x n matrix filled with elements from 1 to n2 in spiral order.
+
+ 
+
+Example 1:
+
+
+Input: n = 3
+Output: [[1,2,3],[8,9,4],[7,6,5]]
+Example 2:
+
+Input: n = 1
+Output: [[1]]
+ 
+
+Constraints:
+
+1 <= n <= 20
+
+ANS:
+
+class Solution {
+    public int[][] generateMatrix(int n) {
+        int a[][]=new int[n][n];
+        int val=1;
+        int rl=0,ru=n-1,cl=0,cu=n-1;
+
+        while(cl<=cu && rl<=ru){
+            for(int i=cl;i<=cu;i++){
+                a[rl][i]=val++;
+            }
+            rl++;
+
+            for(int i=rl;i<=ru;i++){
+                a[i][cu]=val++;
+            }
+
+            cu--;
+// System.out.println(val);
+
+            if(rl>ru || cl>cu){break;}
+
+
+            for(int i=cu;i>=cl;i--){
+                a[ru][i]=val++;
+            }
+
+            ru--;
+
+            for(int i=ru;i>=rl;i--){
+                a[i][cl]=val++;
+            }
+
+            cl++;
+
+
+
+
+        }
+
+       return a;
+        
+    }
+}
