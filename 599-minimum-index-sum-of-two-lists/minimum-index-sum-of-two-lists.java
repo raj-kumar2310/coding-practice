@@ -26,14 +26,7 @@ class Solution {
             System.out.println(min);
         }
 
-        String[] ans=new String[s.size()];
-
-        for(int i=0;i<s.size();i++){
-            ans[i]=s.get(i);
-        }
-
-
-        return ans;
+       return s.toArray(new String[0]);
 
     }
 }
