@@ -20,7 +20,6 @@ class Solution {
                 l++;
             }
 
-            System.out.println(l);
 
             for(int i=0;i<l-1;i++){
                 t=t.next;
