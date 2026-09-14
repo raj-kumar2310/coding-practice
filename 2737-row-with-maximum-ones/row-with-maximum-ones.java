@@ -1,6 +1,6 @@
 class Solution {
     public int[] rowAndMaximumOnes(int[][] mat) {
-        int ansIn=0,m=Integer.MIN_VALUE;
+        int ansIn=0,m=0;
 
         for(int i=0;i<mat.length;i++){
             int count=0;
