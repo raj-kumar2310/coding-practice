@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> findMissingElements(int[] nums) {
-        List<Integer>l=new ArrayList<>();
+        Set<Integer>l=new HashSet<>();
         List<Integer>ans=new ArrayList<>();
         int low=nums[0];
         int hi=nums[0];
