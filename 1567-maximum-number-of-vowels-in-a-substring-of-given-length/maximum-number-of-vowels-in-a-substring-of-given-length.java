@@ -11,7 +11,7 @@ class Solution {
 
             }
 
-            System.out.println(t);
+            // System.out.println(t);
 
             while (r - l + 1 > k) {
                 if (arr[l] == 'a' || arr[l] == 'e' || arr[l] == 'i' || arr[l] == 'o' || arr[l] == 'u') {
