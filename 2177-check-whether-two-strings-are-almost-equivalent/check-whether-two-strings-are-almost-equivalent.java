@@ -6,7 +6,6 @@ class Solution {
         if(n!=m)return false;
 
         int[] a=new int[26];
-        // int[] b=new int[26];
 
         for(int i=0;i<n;i++){
             a[word1.charAt(i)-'a']++;
