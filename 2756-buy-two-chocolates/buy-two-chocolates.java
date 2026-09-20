@@ -1,10 +1,10 @@
 class Solution {
     public int buyChoco(int[] p, int mon) {
-        int a=Math.min(p[0],p[1]);
-        int b=Math.max(p[0],p[1]);
+        int a=Integer.MAX_VALUE;
+        int b=Integer.MAX_VALUE;
         
 
-        for(int i=2;i<p.length;i++){
+        for(int i=0;i<p.length;i++){
             if(p[i]<a){
                 b=a;
                 a=p[i];
