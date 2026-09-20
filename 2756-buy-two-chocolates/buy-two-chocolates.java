@@ -17,8 +17,8 @@ class Solution {
         System.out.println(a+" "+b);
 
 
-        if(a+b > mon )return mon;
+        if(a+b <= mon )return mon-(a+b);
 
-        return mon-(a+b); 
+        return mon;
     }
 }
