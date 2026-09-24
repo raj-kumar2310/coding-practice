@@ -10,7 +10,6 @@ class Solution {
                 a/=10;
             }
 
-            System.out.println(d);
 
             if(d==i)return i;
             
