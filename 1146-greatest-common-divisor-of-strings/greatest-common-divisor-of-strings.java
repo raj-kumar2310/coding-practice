@@ -3,7 +3,6 @@ class Solution {
         if (!(str1+str2).equals(str2 + str1))
            {
 
-            // System.out.println(str1+str2);
             return "";
            }
         int n = gcd(str1.length(), str2.length());
