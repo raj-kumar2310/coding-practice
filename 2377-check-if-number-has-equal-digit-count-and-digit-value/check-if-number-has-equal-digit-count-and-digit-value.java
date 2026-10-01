@@ -11,7 +11,6 @@ class Solution {
         for(int i=0;i<num.length();i++){
             int a=num.charAt(i)-'0';
 
-            // System.out.println(map.get(i)+" "+a+" "+i);
 
             if(map.get(i)==null && a!=0){
                 return false;
