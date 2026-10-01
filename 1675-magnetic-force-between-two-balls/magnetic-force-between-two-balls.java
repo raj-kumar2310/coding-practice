@@ -1,7 +1,6 @@
 class Solution {
     public int maxDistance(int[] position, int m) {
         Arrays.sort(position);
-        // for(int i:position)System.out.println(i);
 
         int l=0,h=position[position.length-1]-position[0];
 
