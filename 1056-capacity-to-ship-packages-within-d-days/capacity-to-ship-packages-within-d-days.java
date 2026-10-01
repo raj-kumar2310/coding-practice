@@ -21,7 +21,7 @@ class Solution {
             }
         }
 
-        return l;
+        return ans;
     }
 
     static int fun(int[] weights,int cap){
