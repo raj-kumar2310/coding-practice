@@ -17,7 +17,6 @@ class Solution {
             j++;
            
 
-            // System.out.println(ans+" "+nums[i]+" "+nums[j]);
             
         }
 
