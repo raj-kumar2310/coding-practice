@@ -9,7 +9,7 @@ class Solution {
                 ans=Math.max(ans,j-i);
             }
 
-            System.out.println(ans);
+            // System.out.println(ans);
             if(j!=n-1){
             j++;
             }else{
