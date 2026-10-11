@@ -28,6 +28,7 @@ class Solution {
 
         for (int i : arr) {
                 ans += time/i;
+                if(ans>=tt)return true;
           }
 
         return ans >= tt;
