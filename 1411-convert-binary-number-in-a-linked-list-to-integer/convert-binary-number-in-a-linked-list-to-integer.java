@@ -18,16 +18,18 @@ class Solution {
             t=t.next;
         }
 
-        int ans=0,base=1;
+        int ans=Integer.parseInt(a,2);
 
-        for(int i=a.length()-1;i>=0;i--){
-            if(a.charAt(i)=='1'){
-                ans+=base;
-            }
+        // int base=1;
 
-            base=base*2;
-        }
-        System.out.println(ans);
+        // for(int i=a.length()-1;i>=0;i--){
+        //     if(a.charAt(i)=='1'){
+        //         ans+=base;
+        //     }
+
+        //     base=base*2;
+        // }
+        // System.out.println(ans);
 
         return ans;
     }
