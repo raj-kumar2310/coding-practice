@@ -13,7 +13,7 @@ class Solution {
             }
 
             j++;
-                System.out.println(sum+" "+j);
+                // System.out.println(sum+" "+j);
             if (j == n) {
                 i++;
                 j = i;
