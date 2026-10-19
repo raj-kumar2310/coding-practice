@@ -23,8 +23,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raj-kumar2310/coding-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/raj-kumar2310/coding-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raj-kumar2310/coding-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
+## Sorting
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/raj-kumar2310/coding-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/raj-kumar2310/coding-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
