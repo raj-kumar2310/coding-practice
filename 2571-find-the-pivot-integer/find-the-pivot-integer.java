@@ -1,6 +1,5 @@
 class Solution {
     public int pivotInteger(int n) {
-        // if(n==1)return 1;
 
         int l=1,h=n;
         int tot=0,sum=0;
