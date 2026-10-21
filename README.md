@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raj-kumar2310/coding-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/raj-kumar2310/coding-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/raj-kumar2310/coding-practice/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/raj-kumar2310/coding-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/raj-kumar2310/coding-practice/tree/master/3162-find-the-number-of-good-pairs-i) |
 <!---LeetCode Topics End-->
