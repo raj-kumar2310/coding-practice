@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/raj-kumar2310/coding-practice/tree/master/0002-add-two-numbers) |
 | [0292-nim-game](https://github.com/raj-kumar2310/coding-practice/tree/main/0292-nim-game/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raj-kumar2310/coding-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1837-sum-of-digits-in-base-k](https://github.com/raj-kumar2310/coding-practice/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/raj-kumar2310/coding-practice/tree/master/2485-find-the-pivot-integer) |
 ## Recursion
 | Problem Name | Difficulty |
