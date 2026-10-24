@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raj-kumar2310/coding-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1837-sum-of-digits-in-base-k](https://github.com/raj-kumar2310/coding-practice/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/raj-kumar2310/coding-practice/tree/master/2485-find-the-pivot-integer) |
+| [2843-count-symmetric-integers](https://github.com/raj-kumar2310/coding-practice/tree/main/2843-count-symmetric-integers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/raj-kumar2310/coding-practice/tree/main/0292-nim-game/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2843-count-symmetric-integers](https://github.com/raj-kumar2310/coding-practice/tree/main/2843-count-symmetric-integers/) | Easy |
 <!---LeetCode Topics End-->
