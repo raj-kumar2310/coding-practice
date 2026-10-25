@@ -6,7 +6,7 @@ class Solution {
 
         while(i<j){
             double sum=(double)(nums[i]+nums[j])/2;
-            System.out.println(sum);
+            // System.out.println(sum);
             if(sum<ans)ans=sum;
             i++;j--;
         }
