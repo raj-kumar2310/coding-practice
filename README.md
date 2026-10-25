@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/raj-kumar2310/coding-practice/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/raj-kumar2310/coding-practice/tree/main/0143-reorder-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raj-kumar2310/coding-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0143-reorder-list](https://github.com/raj-kumar2310/coding-practice/tree/main/0143-reorder-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raj-kumar2310/coding-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 | Problem Name | Difficulty |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/raj-kumar2310/coding-practice/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/raj-kumar2310/coding-practice/tree/main/0143-reorder-list/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2843-count-symmetric-integers](https://github.com/raj-kumar2310/coding-practice/tree/main/2843-count-symmetric-integers/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/raj-kumar2310/coding-practice/tree/main/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->
