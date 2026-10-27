@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/raj-kumar2310/coding-practice/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/raj-kumar2310/coding-practice/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/raj-kumar2310/coding-practice/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
+| [3978-unique-middle-element](https://github.com/raj-kumar2310/coding-practice/tree/main/3978-unique-middle-element/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0859-buddy-strings](https://github.com/raj-kumar2310/coding-practice/tree/main/0859-buddy-strings/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3978-unique-middle-element](https://github.com/raj-kumar2310/coding-practice/tree/main/3978-unique-middle-element/) | Easy |
 <!---LeetCode Topics End-->
