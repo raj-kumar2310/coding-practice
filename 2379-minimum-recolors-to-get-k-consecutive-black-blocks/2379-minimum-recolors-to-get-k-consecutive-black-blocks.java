@@ -9,8 +9,8 @@ class Solution {
                 w++;
             }
 
-            while(r-i+1 > k){
-            System.out.println(w+" "+(r-i+1));
+            // System.out.println(w+" "+(r-i+1));
+            if(r-i+1 > k){
                 if(blocks.charAt(i)=='W')w--;
                 i++;
             }
