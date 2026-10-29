@@ -20,7 +20,7 @@ class Solution {
             if(r-l == 2*k){
                 arr[(r+l)/2]=(int)(sum/(2*k+1));
 
-                System.out.println(sum+" "+(2*k+1));
+                // System.out.println(sum+" "+(2*k+1));
             }
 
             r++;
