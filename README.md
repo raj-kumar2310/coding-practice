@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raj-kumar2310/coding-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/raj-kumar2310/coding-practice/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/raj-kumar2310/coding-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2090-k-radius-subarray-averages](https://github.com/raj-kumar2310/coding-practice/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/raj-kumar2310/coding-practice/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/raj-kumar2310/coding-practice/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/raj-kumar2310/coding-practice/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
@@ -108,5 +109,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/raj-kumar2310/coding-practice/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/raj-kumar2310/coding-practice/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raj-kumar2310/coding-practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2090-k-radius-subarray-averages](https://github.com/raj-kumar2310/coding-practice/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raj-kumar2310/coding-practice/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 <!---LeetCode Topics End-->
