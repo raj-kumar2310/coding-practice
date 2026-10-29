@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0860-lemonade-change](https://github.com/raj-kumar2310/coding-practice/tree/main/0860-lemonade-change/) | Easy |
+| [1052-grumpy-bookstore-owner](https://github.com/raj-kumar2310/coding-practice/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raj-kumar2310/coding-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/raj-kumar2310/coding-practice/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/raj-kumar2310/coding-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1052-grumpy-bookstore-owner](https://github.com/raj-kumar2310/coding-practice/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/raj-kumar2310/coding-practice/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raj-kumar2310/coding-practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raj-kumar2310/coding-practice/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
