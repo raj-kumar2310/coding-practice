@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/raj-kumar2310/coding-practice/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/raj-kumar2310/coding-practice/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/raj-kumar2310/coding-practice/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3285-find-indices-of-stable-mountains](https://github.com/raj-kumar2310/coding-practice/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/raj-kumar2310/coding-practice/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3866-first-unique-even-element](https://github.com/raj-kumar2310/coding-practice/tree/main/3866-first-unique-even-element/) | Easy |
 | [3978-unique-middle-element](https://github.com/raj-kumar2310/coding-practice/tree/main/3978-unique-middle-element/) | Easy |
