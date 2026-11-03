@@ -11,7 +11,6 @@ class Solution {
             int m=Integer.MIN_VALUE;
 
             for(int j=i+1;j<k+i;j++){
-                // System.out.println(nums[j-1] +" "+ nums[j]);
                 if(nums[j-1]+1 == nums[j]){
                     m=Math.max(m,nums[j]);
                 }else{
