@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raj-kumar2310/coding-practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raj-kumar2310/coding-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/raj-kumar2310/coding-practice/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1695-maximum-erasure-value](https://github.com/raj-kumar2310/coding-practice/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/raj-kumar2310/coding-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2090-k-radius-subarray-averages](https://github.com/raj-kumar2310/coding-practice/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/raj-kumar2310/coding-practice/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0859-buddy-strings](https://github.com/raj-kumar2310/coding-practice/tree/main/0859-buddy-strings/) | Easy |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/raj-kumar2310/coding-practice/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
+| [1695-maximum-erasure-value](https://github.com/raj-kumar2310/coding-practice/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raj-kumar2310/coding-practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/raj-kumar2310/coding-practice/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/raj-kumar2310/coding-practice/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/raj-kumar2310/coding-practice/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/raj-kumar2310/coding-practice/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/raj-kumar2310/coding-practice/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1695-maximum-erasure-value](https://github.com/raj-kumar2310/coding-practice/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raj-kumar2310/coding-practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/raj-kumar2310/coding-practice/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raj-kumar2310/coding-practice/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
