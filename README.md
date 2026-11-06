@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/raj-kumar2310/coding-practice/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/raj-kumar2310/coding-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2090-k-radius-subarray-averages](https://github.com/raj-kumar2310/coding-practice/tree/main/2090-k-radius-subarray-averages/) | Medium |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/raj-kumar2310/coding-practice/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/raj-kumar2310/coding-practice/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/raj-kumar2310/coding-practice/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/raj-kumar2310/coding-practice/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/raj-kumar2310/coding-practice/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/raj-kumar2310/coding-practice/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raj-kumar2310/coding-practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/raj-kumar2310/coding-practice/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/raj-kumar2310/coding-practice/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/raj-kumar2310/coding-practice/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3866-first-unique-even-element](https://github.com/raj-kumar2310/coding-practice/tree/main/3866-first-unique-even-element/) | Easy |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raj-kumar2310/coding-practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/raj-kumar2310/coding-practice/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raj-kumar2310/coding-practice/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/raj-kumar2310/coding-practice/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/raj-kumar2310/coding-practice/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/raj-kumar2310/coding-practice/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
