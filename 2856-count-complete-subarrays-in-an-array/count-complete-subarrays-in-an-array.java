@@ -22,7 +22,7 @@ class Solution {
                 map.put(nums[l], map.getOrDefault(nums[l], 0) - 1);
                 if (map.get(nums[l]) == 0)
                     map.remove(nums[l]);
-                l++;
+                 l++;
             }
 
             if(map.size() <=k){
