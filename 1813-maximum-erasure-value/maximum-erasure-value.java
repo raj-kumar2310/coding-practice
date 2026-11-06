@@ -15,7 +15,6 @@ class Solution {
             }
 
             m=Math.max(m,sum);
-            System.out.println(sum+" "+m);
 
             r++;
 
