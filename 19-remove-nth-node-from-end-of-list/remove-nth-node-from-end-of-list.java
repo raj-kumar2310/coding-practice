@@ -25,7 +25,7 @@ class Solution {
 
         if(node ==null || node.next==null)return node;
 
-        System.out.print(node.val);
+        // System.out.print(node.val);
         node.next=node.next.next;
 
 
