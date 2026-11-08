@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/raj-kumar2310/coding-practice/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/raj-kumar2310/coding-practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0143-reorder-list](https://github.com/raj-kumar2310/coding-practice/tree/main/0143-reorder-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raj-kumar2310/coding-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/raj-kumar2310/coding-practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0143-reorder-list](https://github.com/raj-kumar2310/coding-practice/tree/main/0143-reorder-list/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raj-kumar2310/coding-practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raj-kumar2310/coding-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
