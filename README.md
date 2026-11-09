@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0090-subsets-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0090-subsets-ii/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/raj-kumar2310/coding-practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0860-lemonade-change](https://github.com/raj-kumar2310/coding-practice/tree/main/0860-lemonade-change/) | Easy |
@@ -165,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/raj-kumar2310/coding-practice/tree/main/0509-fibonacci-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0090-subsets-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0090-subsets-ii/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0090-subsets-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
