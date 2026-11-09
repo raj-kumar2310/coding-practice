@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/raj-kumar2310/coding-practice/tree/main/0292-nim-game/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/raj-kumar2310/coding-practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0509-fibonacci-number](https://github.com/raj-kumar2310/coding-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raj-kumar2310/coding-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1837-sum-of-digits-in-base-k](https://github.com/raj-kumar2310/coding-practice/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/raj-kumar2310/coding-practice/tree/master/2485-find-the-pivot-integer) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/raj-kumar2310/coding-practice/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/raj-kumar2310/coding-practice/tree/main/0143-reorder-list/) | Medium |
+| [0509-fibonacci-number](https://github.com/raj-kumar2310/coding-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raj-kumar2310/coding-practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/raj-kumar2310/coding-practice/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/raj-kumar2310/coding-practice/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/raj-kumar2310/coding-practice/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
