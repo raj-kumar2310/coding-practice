@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/raj-kumar2310/coding-practice/tree/master/0002-add-two-numbers) |
 | [0292-nim-game](https://github.com/raj-kumar2310/coding-practice/tree/main/0292-nim-game/) | Easy |
+| [0326-power-of-three](https://github.com/raj-kumar2310/coding-practice/tree/main/0326-power-of-three/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/raj-kumar2310/coding-practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/raj-kumar2310/coding-practice/tree/main/0509-fibonacci-number/) | Easy |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/raj-kumar2310/coding-practice/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/raj-kumar2310/coding-practice/tree/main/0143-reorder-list/) | Medium |
+| [0326-power-of-three](https://github.com/raj-kumar2310/coding-practice/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/raj-kumar2310/coding-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
