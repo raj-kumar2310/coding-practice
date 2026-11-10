@@ -14,7 +14,7 @@ class Solution {
 
         l.add(nums[i]);
         helper(nums,i+1,ans,l);
-        l.removeLast();
+        l.remove(l.size()-1);
         helper(nums,i+1,ans,l);
 
     }
