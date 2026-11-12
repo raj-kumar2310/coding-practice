@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/raj-kumar2310/coding-practice/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/raj-kumar2310/coding-practice/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/raj-kumar2310/coding-practice/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/raj-kumar2310/coding-practice/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/raj-kumar2310/coding-practice/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/raj-kumar2310/coding-practice/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/raj-kumar2310/coding-practice/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
