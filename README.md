@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/raj-kumar2310/coding-practice/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
 | [3285-find-indices-of-stable-mountains](https://github.com/raj-kumar2310/coding-practice/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/raj-kumar2310/coding-practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/raj-kumar2310/coding-practice/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/raj-kumar2310/coding-practice/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3866-first-unique-even-element](https://github.com/raj-kumar2310/coding-practice/tree/main/3866-first-unique-even-element/) | Easy |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raj-kumar2310/coding-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/raj-kumar2310/coding-practice/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/raj-kumar2310/coding-practice/tree/master/2485-find-the-pivot-integer) |
+| [3364-minimum-positive-sum-subarray](https://github.com/raj-kumar2310/coding-practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/raj-kumar2310/coding-practice/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/raj-kumar2310/coding-practice/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/raj-kumar2310/coding-practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
