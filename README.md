@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/raj-kumar2310/coding-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0859-buddy-strings](https://github.com/raj-kumar2310/coding-practice/tree/main/0859-buddy-strings/) | Easy |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/raj-kumar2310/coding-practice/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/raj-kumar2310/coding-practice/tree/main/1695-maximum-erasure-value/) | Medium |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/raj-kumar2310/coding-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0344-reverse-string](https://github.com/raj-kumar2310/coding-practice/tree/main/0344-reverse-string/) | Easy |
 | [0859-buddy-strings](https://github.com/raj-kumar2310/coding-practice/tree/main/0859-buddy-strings/) | Easy |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/raj-kumar2310/coding-practice/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/raj-kumar2310/coding-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0077-combinations](https://github.com/raj-kumar2310/coding-practice/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/raj-kumar2310/coding-practice/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0090-subsets-ii/) | Medium |
