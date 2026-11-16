@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/raj-kumar2310/coding-practice/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raj-kumar2310/coding-practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/raj-kumar2310/coding-practice/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/raj-kumar2310/coding-practice/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raj-kumar2310/coding-practice/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/raj-kumar2310/coding-practice/tree/main/0197-rising-temperature/) | Easy |
 | [1280-students-and-examinations](https://github.com/raj-kumar2310/coding-practice/tree/main/1280-students-and-examinations/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/raj-kumar2310/coding-practice/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
