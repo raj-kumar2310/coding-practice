@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raj-kumar2310/coding-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0344-reverse-string](https://github.com/raj-kumar2310/coding-practice/tree/main/0344-reverse-string/) | Easy |
+| [0551-student-attendance-record-i](https://github.com/raj-kumar2310/coding-practice/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0859-buddy-strings](https://github.com/raj-kumar2310/coding-practice/tree/main/0859-buddy-strings/) | Easy |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/raj-kumar2310/coding-practice/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raj-kumar2310/coding-practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
