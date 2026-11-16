@@ -191,4 +191,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/raj-kumar2310/coding-practice/tree/main/0197-rising-temperature/) | Easy |
+| [1280-students-and-examinations](https://github.com/raj-kumar2310/coding-practice/tree/main/1280-students-and-examinations/) | Easy |
 <!---LeetCode Topics End-->
