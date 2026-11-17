@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/raj-kumar2310/coding-practice/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/raj-kumar2310/coding-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/raj-kumar2310/coding-practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/raj-kumar2310/coding-practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
 | [3285-find-indices-of-stable-mountains](https://github.com/raj-kumar2310/coding-practice/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/raj-kumar2310/coding-practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/raj-kumar2310/coding-practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/raj-kumar2310/coding-practice/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/raj-kumar2310/coding-practice/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3866-first-unique-even-element](https://github.com/raj-kumar2310/coding-practice/tree/main/3866-first-unique-even-element/) | Easy |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/raj-kumar2310/coding-practice/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/raj-kumar2310/coding-practice/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/raj-kumar2310/coding-practice/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/raj-kumar2310/coding-practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3866-first-unique-even-element](https://github.com/raj-kumar2310/coding-practice/tree/main/3866-first-unique-even-element/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/raj-kumar2310/coding-practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/raj-kumar2310/coding-practice/tree/main/2843-count-symmetric-integers/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/raj-kumar2310/coding-practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
