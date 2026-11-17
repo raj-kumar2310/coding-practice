@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raj-kumar2310/coding-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/raj-kumar2310/coding-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0344-reverse-string](https://github.com/raj-kumar2310/coding-practice/tree/main/0344-reverse-string/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/raj-kumar2310/coding-practice/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0859-buddy-strings](https://github.com/raj-kumar2310/coding-practice/tree/main/0859-buddy-strings/) | Easy |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/raj-kumar2310/coding-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0509-fibonacci-number](https://github.com/raj-kumar2310/coding-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raj-kumar2310/coding-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/raj-kumar2310/coding-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0077-combinations](https://github.com/raj-kumar2310/coding-practice/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/raj-kumar2310/coding-practice/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0090-subsets-ii/) | Medium |
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/raj-kumar2310/coding-practice/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/raj-kumar2310/coding-practice/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
