@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/raj-kumar2310/coding-practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/raj-kumar2310/coding-practice/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/raj-kumar2310/coding-practice/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0090-subsets-ii/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/raj-kumar2310/coding-practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0047-permutations-ii/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raj-kumar2310/coding-practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/raj-kumar2310/coding-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/raj-kumar2310/coding-practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/raj-kumar2310/coding-practice/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/raj-kumar2310/coding-practice/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/raj-kumar2310/coding-practice/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0090-subsets-ii/) | Medium |
