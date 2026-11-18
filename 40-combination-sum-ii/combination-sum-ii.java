@@ -20,7 +20,7 @@ class Solution {
             if(arr[i] > t)continue;
 
             p.add(arr[i]);
-            System.out.println(t-arr[i]);
+            // System.out.println(t-arr[i]);
             help(i+1,t-arr[i],arr,ans,p);
             p.removeLast();
         }
