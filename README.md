@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/raj-kumar2310/coding-practice/tree/main/0035-search-insert-position/) | Easy |
+| [0037-sudoku-solver](https://github.com/raj-kumar2310/coding-practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/raj-kumar2310/coding-practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/raj-kumar2310/coding-practice/tree/main/0046-permutations/) | Medium |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raj-kumar2310/coding-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0037-sudoku-solver](https://github.com/raj-kumar2310/coding-practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0859-buddy-strings](https://github.com/raj-kumar2310/coding-practice/tree/main/0859-buddy-strings/) | Easy |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/raj-kumar2310/coding-practice/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/raj-kumar2310/coding-practice/tree/main/1695-maximum-erasure-value/) | Medium |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raj-kumar2310/coding-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/raj-kumar2310/coding-practice/tree/main/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/raj-kumar2310/coding-practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/raj-kumar2310/coding-practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/raj-kumar2310/coding-practice/tree/main/0046-permutations/) | Medium |
@@ -223,4 +226,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/raj-kumar2310/coding-practice/tree/main/0022-generate-parentheses/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/raj-kumar2310/coding-practice/tree/main/0037-sudoku-solver/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/raj-kumar2310/coding-practice/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/raj-kumar2310/coding-practice/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
