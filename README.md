@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/raj-kumar2310/coding-practice/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0090-subsets-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/raj-kumar2310/coding-practice/tree/main/0216-combination-sum-iii/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/raj-kumar2310/coding-practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0860-lemonade-change](https://github.com/raj-kumar2310/coding-practice/tree/main/0860-lemonade-change/) | Easy |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/raj-kumar2310/coding-practice/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/raj-kumar2310/coding-practice/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0216-combination-sum-iii](https://github.com/raj-kumar2310/coding-practice/tree/main/0216-combination-sum-iii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
