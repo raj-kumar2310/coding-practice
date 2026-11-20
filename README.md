@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/raj-kumar2310/coding-practice/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/raj-kumar2310/coding-practice/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raj-kumar2310/coding-practice/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/raj-kumar2310/coding-practice/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
