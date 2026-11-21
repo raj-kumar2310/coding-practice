@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/raj-kumar2310/coding-practice/tree/main/0216-combination-sum-iii/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/raj-kumar2310/coding-practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0682-baseball-game](https://github.com/raj-kumar2310/coding-practice/tree/main/0682-baseball-game/) | Easy |
 | [0860-lemonade-change](https://github.com/raj-kumar2310/coding-practice/tree/main/0860-lemonade-change/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/raj-kumar2310/coding-practice/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raj-kumar2310/coding-practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/raj-kumar2310/coding-practice/tree/main/0143-reorder-list/) | Medium |
+| [0682-baseball-game](https://github.com/raj-kumar2310/coding-practice/tree/main/0682-baseball-game/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/raj-kumar2310/coding-practice/tree/main/0682-baseball-game/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/raj-kumar2310/coding-practice/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
