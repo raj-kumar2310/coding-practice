@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raj-kumar2310/coding-practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raj-kumar2310/coding-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/raj-kumar2310/coding-practice/tree/main/2540-minimum-common-value/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/raj-kumar2310/coding-practice/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/raj-kumar2310/coding-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2090-k-radius-subarray-averages](https://github.com/raj-kumar2310/coding-practice/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/raj-kumar2310/coding-practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2540-minimum-common-value](https://github.com/raj-kumar2310/coding-practice/tree/main/2540-minimum-common-value/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/raj-kumar2310/coding-practice/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/raj-kumar2310/coding-practice/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/raj-kumar2310/coding-practice/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/raj-kumar2310/coding-practice/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raj-kumar2310/coding-practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/raj-kumar2310/coding-practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2540-minimum-common-value](https://github.com/raj-kumar2310/coding-practice/tree/main/2540-minimum-common-value/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/raj-kumar2310/coding-practice/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/raj-kumar2310/coding-practice/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/raj-kumar2310/coding-practice/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/raj-kumar2310/coding-practice/tree/main/0035-search-insert-position/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raj-kumar2310/coding-practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/raj-kumar2310/coding-practice/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2540-minimum-common-value](https://github.com/raj-kumar2310/coding-practice/tree/main/2540-minimum-common-value/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
