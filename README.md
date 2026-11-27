@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/raj-kumar2310/coding-practice/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/raj-kumar2310/coding-practice/tree/master/2485-find-the-pivot-integer) |
 | [2843-count-symmetric-integers](https://github.com/raj-kumar2310/coding-practice/tree/main/2843-count-symmetric-integers/) | Easy |
+| [3360-stone-removal-game](https://github.com/raj-kumar2310/coding-practice/tree/main/3360-stone-removal-game/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/raj-kumar2310/coding-practice/tree/main/0682-baseball-game/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/raj-kumar2310/coding-practice/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3360-stone-removal-game](https://github.com/raj-kumar2310/coding-practice/tree/main/3360-stone-removal-game/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
