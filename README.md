@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0047-permutations-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/raj-kumar2310/coding-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raj-kumar2310/coding-practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/raj-kumar2310/coding-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raj-kumar2310/coding-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/raj-kumar2310/coding-practice/tree/main/0037-sudoku-solver/) | Hard |
+| [0242-valid-anagram](https://github.com/raj-kumar2310/coding-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0859-buddy-strings](https://github.com/raj-kumar2310/coding-practice/tree/main/0859-buddy-strings/) | Easy |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/raj-kumar2310/coding-practice/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/raj-kumar2310/coding-practice/tree/main/1695-maximum-erasure-value/) | Medium |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raj-kumar2310/coding-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/raj-kumar2310/coding-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/raj-kumar2310/coding-practice/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0242-valid-anagram](https://github.com/raj-kumar2310/coding-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/raj-kumar2310/coding-practice/tree/main/0344-reverse-string/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/raj-kumar2310/coding-practice/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/raj-kumar2310/coding-practice/tree/main/0680-valid-palindrome-ii/) | Easy |
